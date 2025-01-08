@@ -1,8 +1,14 @@
 [
-    {
-        "id": 2,
-        "name": "Mouse",
-        "quantity": 50,
-        "price": 100000
-    }
+  {
+    "id": 1,
+    "name": "Laptop",
+    "quantity": 10,
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "name": "Printer LX-310",
+    "quantity": 20,
+    "price": 10000
+  }
 ]
